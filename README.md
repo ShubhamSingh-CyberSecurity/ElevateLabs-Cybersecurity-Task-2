@@ -3,7 +3,7 @@ Analyze a Phishing Email Sample
 
 Tools Used
 - Visual inspection of email screenshot
-- Email header analysis concepts (SPF/DKIM/DMARC – theoretical due to screenshot format)
+- Email header analysis concepts (SPF/DKIM/DMARC – theoretical due to screenshot format and.txt file)
 - Awareness of phishing indicators
 - Microsoft Word (to document the findings)
 Steps Performed
